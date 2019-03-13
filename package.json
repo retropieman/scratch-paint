@@ -60,7 +60,7 @@
     "canvas-prebuilt": "^2.0.0-alpha.14",
     "css-loader": "1.0.0",
     "enzyme": "^3.9.0",
-    "enzyme-adapter-react-16": "^1.0.1",
+    "enzyme-adapter-react-16": "^1.11.0",
     "eslint": "^4.4.1",
     "eslint-config-import": "^0.13.0",
     "eslint-config-scratch": "^5.0.0",
